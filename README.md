@@ -4,4 +4,4 @@ This is a python program that allows an attacker to replace victim's download re
 
 <strong>Note:</strong> Make sure to run the ARP Spoof (in another repository) program before running the file interceptor.
 
-Usage syntax: ````python3 file_interceptor.py`````
+Usage syntax: ````python3 file_interceptor.py````
